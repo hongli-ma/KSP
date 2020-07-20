@@ -3,7 +3,7 @@
 	kinase-substrate interaction data and protein-protein interaction data using KSPscore.
 
 ## Instructions For Use
-	Unzip "KSP_code.zip" to find the ** KSP_code ** file.
+	Download the ** KSP_code ** file.
 	
 	## Requirements for installation
 	1. **Linux/Unix** environment
