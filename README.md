@@ -144,3 +144,4 @@
 	
 #### Contact information:
      For questions, request and bug reports, please contact: Hongli Ma at hongli.ma@mail.sdu.edu.cn
+     Please cite: Ma H, Li G, Su Z. KSP: an integrated method for predicting catalyzing kinases of phosphorylation sites in proteins[J]. BMC genomics, 2020, 21(1): 1-10. 
